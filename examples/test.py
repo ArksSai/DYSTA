@@ -4,3 +4,7 @@ def a():
 def d():
     for k in pan:
         i=k
+
+#def a():
+#    for i in l + 5:
+#        i = s
