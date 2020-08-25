@@ -1,4 +1,9 @@
 # Changelog
+## [V1.8.1](https://github.com/ncu-psl/DYSTA/releases/tag/v1.8)
+[Full Changelog](https://github.com/ncu-psl/DYSTA/compare/ncu-psl:v1.8...v1.8.1)
+1. 修復 md7.py、md17.py的錯誤
+
+
 ## [V1.8](https://github.com/ncu-psl/DYSTA/releases/tag/v1.8)
 [Full Changelog](https://github.com/ncu-psl/DYSTA/compare/ncu-psl:v1.7...v1.8)
 1. 新增可分析 while 敘述功能(測試中)
